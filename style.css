@@ -90,7 +90,7 @@ nav ul ul li a:hover{
   font-size: 45px;
   font-family: 'Dosis', sans-serif;
 }
-#btn{
+#btn , #btn-1{
   float: right;
   visibility: hidden;
 }
@@ -103,7 +103,7 @@ nav ul ul li a:hover{
   padding: 5px;
   cursor: pointer;
 }
-.show input{
+.show{
   display: none;
 }
 @media all and (max-width: 968px) {
